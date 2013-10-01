@@ -1,0 +1,6 @@
+$ git config --global user.name "Nyathi"
+# Sets the default name for git to use when you commit
+$ git config --global user.email "justice.nyathi.com"
+
+
+
